@@ -1,0 +1,7 @@
+{
+  "name": " QR Kitchen Pro 2",
+  "description": "An advanced QR code generator to create professional, customized QR codes with various data types, colors, gradients, shapes, and logos. Save and load designs, and keep a history of your creations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
